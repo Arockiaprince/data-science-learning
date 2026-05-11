@@ -1,0 +1,5 @@
+[
+  {"Name": "Kavi", "Age": 22, "City": "Delhi"},
+  {"Name": "Rani", "Age": null, "City": "Hyderabad"},
+  {"Name": "Vijay", "Age": 25, "City": null}
+]
